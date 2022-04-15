@@ -3,6 +3,6 @@ I'm Anthoni, a 22 years old web developer from Peru 🇵🇪.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, React, Next JS
-- 👁️ CSS, Tailwind 
+- 👁️ CSS, SASS, Tailwind, Bootstrap
 - 💽 MySQL,PostgreSQL
-- 🐍 Python, Django Rest Framework
+- 🐍 Python, Django, Rest Framework
